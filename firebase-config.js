@@ -1,6 +1,6 @@
 // Firebase web configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAUYu_O2GTBc7PSNEO6DM1LtmNq0Kp1LrU",
+  apiKey: "YOUR_API_KEY",
   authDomain: "smart-parking-system-79ea9.firebaseapp.com",
   databaseURL: "https://smart-parking-system-79ea9-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "smart-parking-system-79ea9",
