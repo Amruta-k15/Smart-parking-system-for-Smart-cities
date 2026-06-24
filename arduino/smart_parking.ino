@@ -22,7 +22,7 @@
 
 // Firebase project details.
 // These values must point to the same Firebase project used by firebase-config.js.
-#define API_KEY "AIzaSyCoD5W95FFD_6mepYfWms9tv_Nay209-Uo"
+#define API_KEY "YOUR_API_KEY"
 #define DATABASE_URL "https://smart-park-db-94758-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
 #define TRIG_PIN D5
