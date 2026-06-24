@@ -1,15 +1,12 @@
 # Smart Parking System for Smart Cities
 
 ## Project Overview
-
 Smart Parking System for Smart Cities is an IoT-based parking management solution designed to improve urban mobility by providing real-time parking slot availability, vehicle booking, parking status monitoring, and QR-based parking tickets.
 
 The system enables users to view parking availability, reserve parking slots, receive digital parking tickets, and monitor parking status through an interactive web dashboard.
 
 ---
-
 ## Problem Statement
-
 Finding parking spaces in crowded urban areas is time-consuming and contributes significantly to traffic congestion. Drivers often spend considerable time searching for available parking slots.
 
 This project addresses the issue by providing a smart parking solution that allows users to monitor parking slot availability in real time and reserve parking spaces efficiently.
@@ -17,7 +14,6 @@ This project addresses the issue by providing a smart parking solution that allo
 ---
 
 ## Objectives
-
 * Monitor parking slot availability.
 * Display real-time parking status.
 * Enable online parking slot booking.
@@ -28,7 +24,6 @@ This project addresses the issue by providing a smart parking solution that allo
 ---
 
 ## Features
-
 * Real-time parking slot monitoring
 * Parking slot booking system
 * QR code ticket generation
@@ -42,7 +37,6 @@ This project addresses the issue by providing a smart parking solution that allo
 ---
 
 ## Technology Stack
-
 ### Frontend
 
 * HTML5
@@ -50,18 +44,15 @@ This project addresses the issue by providing a smart parking solution that allo
 * JavaScript
 
 ### Backend & Database
-
 * Firebase Realtime Database
 
 ### IoT Components
-
 * NodeMCU ESP8266
 * Ultrasonic Sensor (HC-SR04)
 
 ---
 
 ## Project Workflow
-
 1. User accesses the dashboard.
 2. Available parking slot status is displayed.
 3. User books an available parking slot.
@@ -75,40 +66,26 @@ This project addresses the issue by providing a smart parking solution that allo
 ## System Modules
 
 ### Parking Dashboard
-
 Displays slot availability and parking status.
 
 ### Booking Module
-
 Allows users to reserve parking slots.
 
 ### Ticket Generation Module
-
 Generates QR-based parking tickets.
 
 ### Monitoring Module
-
 Tracks parking status and vehicle information.
 
 ---
 
 ## Future Enhancements
-
 * Multiple parking slot management
 * Automatic vehicle detection
 * License plate recognition
 * Mobile application integration
 * Payment gateway integration
 
----
 
-## Author
-
-Rushikesh Dattatray Kumbhar 
-Bachelor of Computer Science Engineering (AIML)
-D. Y. Patil Agriculture and Technical University
-
-•	Git Hub Link: https://github.com/Rushipotter/Smart-parking-system-for-smart-cities
-•	Demo Link: https://drive.google.com/file/d/1YQ2_cV-XQSbdDga4oQXpeVyK-heytU4k/view?usp=sharing
 
 
